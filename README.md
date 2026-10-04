@@ -89,4 +89,9 @@ curl -b jar.txt -X POST http://localhost:4000/api/notes -H Content-Type:applicat
 
 ## Demo video 
 
+<video src="https://github.com/user-attachments/assets/6b9a55f3-fc44-4cf6-9fde-4e774eb9d6cc" width="100%" controls>
+</video>
+
+
+
 
