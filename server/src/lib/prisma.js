@@ -1,0 +1,4 @@
+const { PrismaClient } = require('@prisma/client');
+
+// One shared client for the whole app (each `new PrismaClient()` opens its own connection pool).
+module.exports = new PrismaClient();
